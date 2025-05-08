@@ -1,0 +1,7 @@
+{
+        "name": "son/mvc",
+        "require": {"php": ">=5.3"},
+        "minimus-stability": "alpha",
+        "authors": [{"name": "Renan Gaspar", "email": "renan-portnoy@hotmail.com"}]
+
+}
